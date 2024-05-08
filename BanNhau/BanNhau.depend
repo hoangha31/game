@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1714735119 source:c:\users\admin\desktop\bannhau\draw.cpp
+	<SDL.h>
+	"draw.h"
+
+1714735205 c:\users\admin\desktop\bannhau\draw.h
+	<SDL.h>
+
+1715136858 source:c:\users\admin\desktop\bannhau\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"graphics.h"
+	"structs.h"
+	"input.h"
+	"draw.h"
+	"game.h"
+
+1715100658 c:\users\admin\desktop\bannhau\defs.h
+
+1715139712 c:\users\admin\desktop\bannhau\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1715136858 c:\users\admin\desktop\bannhau\structs.h
+	<SDL.h>
+	<math.h>
+
+1715139712 c:\users\admin\desktop\bannhau\input.h
+	<SDL.h>
+	"defs.h"
+
+1715140803 c:\users\admin\desktop\bannhau\game.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<list>
+	<iostream>
+	<bits/stdc++.h>
+	"structs.h"
+	"graphics.h"
+	"Texting.h"
+	<cstdlib>
+
+1715110701 source:c:\users\admin\desktop\bannhau\utils.cpp
+	<bits/stdc++.h>
+
+1715136858 c:\users\admin\desktop\bannhau\texting.h
+
